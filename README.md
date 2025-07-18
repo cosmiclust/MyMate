@@ -1,1 +1,1 @@
-# My-Mate
+# MyMate
