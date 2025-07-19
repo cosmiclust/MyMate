@@ -32,3 +32,24 @@ Your real-time, privacy-first screen assistant.
 It’s democratized help — for everyone, everywhere, by design.
 
 <pre lang="markdown"> ```python mymate/ ├── core/ │ ├── agent.py # Handles screen understanding, action planning │ ├── vision.py # OCR + image analysis │ ├── speech.py # Voice input/output processing │ ├── controller.py # Mouse, keyboard, app automation │ └── utils.py # Helper functions ├── ui/ │ └── overlay.py # Optional UI overlay for voice/text interaction ├── config/ │ └── settings.yaml # Configurations (hotkeys, voice mode, etc.) ├── main.py # Entry point ├── README.md # Project overview ├── requirements.txt # Dependencies └── .gitignore ``` </pre>
+
+🛠️ Tech Stack
+🔍 Screen Analysis: mss, pygetwindow, Pillow, OpenCV
+
+🧾 OCR: Tesseract, EasyOCR, DocTR
+
+🧠 VLMs: LLaVA, GPT-4o, or BLIP-2 (via API or local)
+
+🎙️ Speech: Whisper, TTS, Edge-tts
+
+🤖 Agent Framework: LangGraph, ReAct, DSPy, or simple FSM
+
+🔒 Privacy First
+✅ Runs 100% locally
+
+✅ No internet needed (optional)
+
+✅ Nothing is recorded unless the user chooses
+
+✅ Full control over what is analyzed
+
