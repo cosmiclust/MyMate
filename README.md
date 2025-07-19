@@ -1,28 +1,30 @@
-# MyMate
-your real-time, privacy-first screen assistant.
+Your real-time, privacy-first screen assistant.
 
+✨ What is MyMate?
+“A voice-first AI assistant that lets users control their laptop screen, apps, and tasks — just like a teammate guiding you.”
 
+Understands any screen content — PDFs, websites, videos, apps, docs, etc.
 
-**What it does:**
+Uses vision, OCR, voice, and text to help in real time.
 
-"A voice-first AI assistant that lets users control their laptop screen, apps, and tasks — just like a teammate guiding you."
+Works locally. No cloud. No spying.
 
-**Who it's for:**
+🎯 Who is it for?
+👩‍💻 Coders — ask questions, debug, or search without lifting your fingers.
 
-Coders, non-tech users, small-town learners, students, travelers, workers — everyone
+👨‍🌾 Small-town learners — no tech knowledge? Speak, and it helps.
 
-**Why it matters:**
+🎒 Students & travelers — offline or spotty internet? Still works.
 
-It removes the need to type, click, or even understand tech. It democratizes help.
+🧑‍🏭 Workers & elders — don’t click or type. Just speak.
 
-*Apps don’t expose APIs?*  Doesn’t matter — you read screen pixels.
+🧩 Why MyMate Matters
+🖥️ No API? Doesn’t matter. It reads screen pixels.
 
-*No login/OAuth needed?* Doesn’t matter — you don’t need user data from them.
+🔐 No OAuth? Doesn’t matter. You don’t need their data.
 
-*Privacy?* Everything is local — no data shared unless user consents.
+🧍‍♀️ No privacy loss? Everything runs locally — nothing leaves your device.
 
-*Scalable trust model* — Everyone can have their own local agent. No one needs to “give” their data._
+🤖 Scalable trust model — each user gets their own private agent.
 
-
-<img width="550" height="492" alt="image" src="https://github.com/user-attachments/assets/523a363d-790c-40e2-9ebe-3659e0e3ea7e" />
-
+It’s democratized help — for everyone, everywhere, by design.
