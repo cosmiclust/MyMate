@@ -24,28 +24,5 @@ It removes the need to type, click, or even understand tech. It democratizes hel
 *Scalable trust model* — Everyone can have their own local agent. No one needs to “give” their data._
 
 
-mymate/
-├── README.md               # Project overview and instructions
-├── main.py                 # Entry point for running MyMate
-├── requirements.txt        # List of dependencies
-├── config/
-│   └── settings.py         # Central configuration for paths, model, app settings
-├── core/
-│   ├── agent.py            # Agent logic for deciding actions based on vision + text
-│   ├── pipeline.py         # Orchestration of screen input, OCR, VLM, and response
-│   └── utils.py            # Shared utility functions (e.g., timers, logging)
-├── screen/
-│   ├── screen_capture.py   # Real-time screen grabbing using MSS
-│   └── ocr.py              # OCR using Tesseract or any chosen engine
-├── vision/
-│   ├── analyzer.py         # Visual understanding using VLMs (BLIP2, LLaVA, etc.)
-│   └── models/             # Optional folder for loading/storing local model weights
-├── audio/ (optional)       
-│   ├── mic_input.py        # Capture voice commands
-│   └── tts.py              # Text-to-speech responses (if voice output needed)
-├── gui/ (optional)
-│   └── interface.py        # GUI for MyMate using Tkinter, PyQt, or web UI
-└── tests/
-    ├── test_pipeline.py    # Unit tests for the core pipeline
-    └── test_agent.py       # Tests for the agent's decision logic
+<img width="550" height="492" alt="image" src="https://github.com/user-attachments/assets/523a363d-790c-40e2-9ebe-3659e0e3ea7e" />
 
