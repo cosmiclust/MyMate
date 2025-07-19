@@ -31,8 +31,26 @@ Your real-time, privacy-first screen assistant.
 
 It’s democratized help — for everyone, everywhere, by design.
 
-<pre lang="markdown"> ```python mymate/ ├── core/ │ ├── agent.py # Handles screen understanding, action planning │ ├── vision.py # OCR + image analysis │ ├── speech.py # Voice input/output processing │ ├── controller.py # Mouse, keyboard, app automation │ └── utils.py # Helper functions ├── ui/ │ └── overlay.py # Optional UI overlay for voice/text interaction ├── config/ │ └── settings.yaml # Configurations (hotkeys, voice mode, etc.) ├── main.py # Entry point ├── README.md # Project overview ├── requirements.txt # Dependencies └── .gitignore ``` </pre>
+```python
+mymate/
+├── core/
+│   ├── agent.py          # Handles screen understanding, action planning
+│   ├── vision.py         # OCR + image analysis
+│   ├── speech.py         # Voice input/output processing
+│   ├── controller.py     # Mouse, keyboard, app automation
+│   └── utils.py          # Helper functions
 
+├── ui/
+│   └── overlay.py        # Optional UI overlay for voice/text interaction
+
+├── config/
+│   └── settings.yaml     # Configurations (hotkeys, voice mode, etc.)
+
+├── main.py               # Entry point
+├── README.md             # Project overview
+├── requirements.txt      # Dependencies
+└── .gitignore
+```
 🛠️ Tech Stack
 🔍 Screen Analysis: mss, pygetwindow, Pillow, OpenCV
 
