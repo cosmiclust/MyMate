@@ -63,11 +63,5 @@ mymate/
 🤖 Agent Framework: LangGraph, ReAct, DSPy, or simple FSM
 
 🔒 Privacy First
-✅ Runs 100% locally
 
-✅ No internet needed (optional)
-
-✅ Nothing is recorded unless the user chooses
-
-✅ Full control over what is analyzed
 
