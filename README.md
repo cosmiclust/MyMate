@@ -1,5 +1,7 @@
 # MyMate
-A hands-free, voice-activated assistant that manages your screen—simply speak your commands and it takes action, no typing or manual input required.
+your real-time, privacy-first screen assistant.
+
+
 
 **What it does:**
 
