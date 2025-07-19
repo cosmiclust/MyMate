@@ -13,10 +13,10 @@ Coders, non-tech users, small-town learners, students, travelers, workers — ev
 
 It removes the need to type, click, or even understand tech. It democratizes help.
 
-_Apps don’t expose APIs? Doesn’t matter — you read screen pixels.
+*Apps don’t expose APIs?*  Doesn’t matter — you read screen pixels.
 
-No login/OAuth needed? Doesn’t matter — you don’t need user data from them.
+*No login/OAuth needed?* Doesn’t matter — you don’t need user data from them.
 
-Privacy? ✅ Everything is local — no data shared unless user consents.
+*Privacy?* Everything is local — no data shared unless user consents.
 
-Scalable trust model — Everyone can have their own local agent. No one needs to “give” their data._
+*Scalable trust model* — Everyone can have their own local agent. No one needs to “give” their data._
