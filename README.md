@@ -5,11 +5,11 @@ Your real-time, privacy-first screen assistant.
 **✨ What is MyMate?**
 “A voice-first AI assistant that lets users control their laptop screen, apps, and tasks — just like a teammate guiding you.”
 
-Understands any screen content — PDFs, websites, videos, apps, docs, etc.
+💻Understands any screen content — PDFs, websites, videos, apps, docs, etc.
 
-Uses vision, OCR, voice, and text to help in real time.
+🔍Uses vision, OCR, voice, and text to help in real time.
 
-Works locally. No cloud. No spying.
+🌫️❌Works locally. No cloud. No spying.
 
 **🎯 Who is it for?**
 👩‍💻 Coders — ask questions, debug, or search without lifting your fingers.
@@ -30,3 +30,5 @@ Works locally. No cloud. No spying.
 🤖 Scalable trust model — each user gets their own private agent.
 
 It’s democratized help — for everyone, everywhere, by design.
+
+<pre lang="markdown"> ```python mymate/ ├── core/ │ ├── agent.py # Handles screen understanding, action planning │ ├── vision.py # OCR + image analysis │ ├── speech.py # Voice input/output processing │ ├── controller.py # Mouse, keyboard, app automation │ └── utils.py # Helper functions ├── ui/ │ └── overlay.py # Optional UI overlay for voice/text interaction ├── config/ │ └── settings.yaml # Configurations (hotkeys, voice mode, etc.) ├── main.py # Entry point ├── README.md # Project overview ├── requirements.txt # Dependencies └── .gitignore ``` </pre>
